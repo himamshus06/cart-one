@@ -1,0 +1,6 @@
+nod_modules/
+.env
+backend/database.sqlite
+frontend/dist/
+frontend/build/
+.DS_Store
