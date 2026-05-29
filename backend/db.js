@@ -37,7 +37,7 @@ db.serialize(() => {
         ['Wireless Headphones', 1299, 10, 'Over-ear, noise cancelling', 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500'],
         ['Mechanical Keyboard', 2499, 5, 'TKL, RGB backlight', 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500'],
         ['USB-C Hub', 899, 20, '7-in-1, 4K HDMI', 'https://images.unsplash.com/photo-1468495244123-6c6c332eeece?w=500'],
-        ['Webcam 1080p', 1599, 8, 'Auto-focus, built-in mic', 'https://images.unsplash.com/photo-1610945415295-d9bfe064e859?w=500'],
+        ['Webcam 1080p', 1599, 8, 'Auto-focus, built-in mic', 'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&auto=format&fit=crop&q=80'],
         ['Desk Mat XL', 499, 15, '90x40cm, non-slip base', 'https://images.unsplash.com/photo-1616440347437-b1c73416efc2?w=500']
       ];
 
